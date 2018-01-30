@@ -1,0 +1,11 @@
+package demo
+
+object ThirdTask {
+
+
+
+  def main(args: Array[String]): Unit = {
+    println("AAA")
+    println(sqrt(4)(2))
+  }
+}
